@@ -1,0 +1,41 @@
+body{
+    background-image: url(./asset/97.robot.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+div {
+    position: relative;
+    
+    left: 150px;
+    top: 50px;
+    font-size: 28px;
+    font-family: "Playfair Display", serif ;
+    color: aliceblue;
+
+}
+.Natural{
+    position: relative;
+    
+}
+.Nombre{
+    position: relative;
+    bottom: 80px;
+}
+
+.inicioSesion {
+    position: relative;
+    left: 100px;
+    font-family: 'crossorigin';
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+    padding: 10px 15px;
+    background-color: white;
+    border-radius: 20px;
+    top: 20px;
+    
+}
+    

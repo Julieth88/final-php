@@ -1,0 +1,13 @@
+body{
+    background-image: url(./asset/97.robot.webp);
+    
+}
+
+.inicio{
+
+    display: flex;
+    justify-content: center;
+    font-size:50px;
+    color: white;
+
+}
